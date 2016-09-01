@@ -1,6 +1,6 @@
 {
   "name": "nightmare-evaluate-with-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows Nightmare to evaluate delayed returns via a callback mechanism",
   "main": "index.js",
   "scripts": {
