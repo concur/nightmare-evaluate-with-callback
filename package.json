@@ -1,7 +1,7 @@
 {
   "name": "nightmare-evaluate-with-callback",
   "version": "1.0.2",
-  "description": "Allows Nightmare to evaluate delayed returns via a callback mechanism",
+  "description": "Allows Nightmare to execute delayed returns via a callback mechanism without using yeild",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
