@@ -1,0 +1,25 @@
+{
+  "name": "nightmare-evaluate-with-callback",
+  "version": "1.0.0",
+  "description": "Allows Nightmare to evaluate delayed returns via a callback mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseygoodhew/nightmare-evaluate-with-callback.git"
+  },
+  "keywords": [
+    "nightmare",
+    "evaluate",
+    "async",
+    "callback"
+  ],
+  "author": "Casey Goodhew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caseygoodhew/nightmare-evaluate-with-callback/issues"
+  },
+  "homepage": "https://github.com/caseygoodhew/nightmare-evaluate-with-callback#readme"
+}
